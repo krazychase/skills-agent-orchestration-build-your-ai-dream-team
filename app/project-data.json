@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "id": "pulse-api",
+      "name": "Pulse API",
+      "owner": "Mona",
+      "status": "on-track",
+      "priority": "high",
+      "summary": "REST API that powers the Project Pulse dashboard.",
+      "recentActivity": "Merged pagination support for the projects endpoint.",
+      "lastUpdated": "2026-11-20",
+      "progress": 72,
+      "dueDate": "2026-12-15"
+    },
+    {
+      "id": "mobile-onboarding",
+      "name": "Mobile Onboarding",
+      "owner": "Hubot",
+      "status": "at-risk",
+      "priority": "high",
+      "summary": "A friendlier first-run experience for the mobile app.",
+      "recentActivity": "Usability testing found two confusing steps in the sign-up flow.",
+      "lastUpdated": "2026-11-22",
+      "progress": 45,
+      "dueDate": "2026-12-05"
+    },
+    {
+      "id": "billing-migration",
+      "name": "Billing Migration",
+      "owner": "Platform Team",
+      "status": "blocked",
+      "priority": "medium",
+      "summary": "Move invoices and subscriptions to the new billing provider.",
+      "recentActivity": "Waiting on the vendor to enable sandbox access for webhooks.",
+      "lastUpdated": "2026-11-18",
+      "progress": 30,
+      "dueDate": "2026-11-10"
+    },
+    {
+      "id": "docs-refresh",
+      "name": "Docs Refresh",
+      "owner": "Octocat",
+      "status": "completed",
+      "priority": "low",
+      "summary": "Rewrite the contributor guide so new teammates can ship on day one.",
+      "recentActivity": "Published the new contributor guide and archived the old wiki.",
+      "lastUpdated": "2026-11-15",
+      "progress": 100,
+      "dueDate": "2026-11-14"
+    },
+    {
+      "id": "search-insights",
+      "name": "Search Insights",
+      "owner": "Data Team",
+      "status": "planning",
+      "priority": "medium",
+      "summary": "Analytics on what people search for and what they never find.",
+      "recentActivity": "Drafted the metrics list and booked a kickoff for next week.",
+      "lastUpdated": "2026-11-24",
+      "progress": 5,
+      "dueDate": "2027-02-01"
+    },
+    {
+      "name": "Accessibility Audit",
+      "owner": "Design Systems",
+      "status": "on-track",
+      "recentActivity": "Finished keyboard checks on the settings pages.",
+      "priority": "low"
+    }
+  ]
+}
